@@ -32,4 +32,3 @@ sendButton.addEventListener('click', function (e) {
     localStorage.setItem('message', message);
 
 })
-
