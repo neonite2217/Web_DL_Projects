@@ -59,10 +59,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-
-For any questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Enjoy creating and watching the animated car!
