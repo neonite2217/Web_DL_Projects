@@ -28,4 +28,4 @@ git clone https://github.com/neonite2217/Web_DL_Projects.git
 - Start Calculatings!
 
 <h3> Demo </h3>
-<img src=""/>
+<img src="https://github.com/neonite2217/Web_DL_Projects/blob/main/BMI%20Calculator/snap.PNG"/>
