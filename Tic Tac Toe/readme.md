@@ -21,7 +21,7 @@ git clone https://github.com/neonite2217/Web_DL_Projects.git
 
 This is what the UI looks like:
 
-<img src="./Screenshots/ss1.png" />
+<img src="https://github.com/neonite2217/Web_DL_Projects/blob/main/Tic%20Tac%20Toe/ss1.png" />
 
-<img src="./Screenshots/ss2.png" />
+<img src="https://github.com/neonite2217/Web_DL_Projects/blob/main/Tic%20Tac%20Toe/ss2.png" />
 
