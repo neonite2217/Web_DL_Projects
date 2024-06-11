@@ -27,4 +27,5 @@ git clone hhttps://github.com/neonite2217/Web_DL_Projects.git
 ![battery-indicator](light.jpg)
 ![battery-indicator](dark.jpg)
 
-Developed by: [Biswaketan] (https://github.com/neonite2217)
+Developed by: [Biswaketan
+](https://github.com/neonite2217)
