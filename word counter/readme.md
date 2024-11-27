@@ -1,6 +1,6 @@
 
 
-<h1>Word counter App</h1>
+<h1>Word counter </h1>
 
 <p>Word counter App written in HTML, CSS, and JavaScript .</p>
 
