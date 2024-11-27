@@ -2,7 +2,7 @@
 
 <h1>Word counter </h1>
 
-<p>Word counter App written in HTML, CSS, and JavaScript .</p>
+<p>Word counter written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
 
