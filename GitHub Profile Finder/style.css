@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1b1f23; /* Dark background */
+    color: #c9d1d9; /* Light text color */
+}
+
+.container {
+    width: 100%;
+}
+
+.search-container {
+    position: relative;
+    width: 550px;
+    height: 50px;
+    background-color: #2d333b; /* Darker container */
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
+}
+
+#input {
+    width: 100%;
+    height: 100%;
+    background-color: #2d333b; /* Dark input background */
+    border: 1px solid #444c56; /* Dark border */
+    color: #c9d1d9; /* Light text color */
+    outline: none;
+    padding: 5px 160px 5px 15px;
+    box-sizing: border-box;
+}
+
+#search {
+    width: 160px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #539bf5; /* Blue color */
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.profile-card {
+    width: 500px;
+    background-color: #2d333b; /* Dark container background */
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
+    font-family: 'Lobster Two', cursive;
+}
+
+.main-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid #444c56; /* Dark border */
+}
+
+#prof-img {
+    height: 70px;
+    width: auto;
+    border-radius: 50%;
+    margin: 10px 0;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
+}
+
+.name {
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+#username {
+    font-size: 20px;
+    text-decoration: none;
+    color: #539bf5; /* Light blue accent color */
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bio {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 23px;
+}
+
+#bio {
+    font-weight: bold;
+    color: #8b949e; /* Lighter text color */
+}
+
+p {
+    margin-top: 12px;
+}
+
+.follow {
+    width: 100%;
+    display: flex;
+    height: 60px;
+    border-top: 1px solid #444c56; /* Dark border */
+    font-size: 20px;
+}
+
+.follow div {
+    width: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.followers {
+    border-right: 1px solid #444c56; /* Dark border */
+}
+
+@media screen and (max-width: 600px) {
+    .profile-card {
+        width: 450px;
+        margin: 0 45px;
+        margin-top: 30px;
+        border-radius: 15px;
+        overflow: hidden;
+        margin-bottom: 15px;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
+        font-family: 'Lobster Two', cursive;
+    }
+}
