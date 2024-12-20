@@ -1,0 +1,139 @@
+:root {
+  --white-color: #ecf0f3;
+  --orange-color: #d04326;
+  --dark-bg-color: #0d1117;
+  --light-bg-color: #ffffff;
+  --text-color-dark: #ecf0f3;
+  --text-color-light: #0d1117;
+}
+
+body {
+  background-color: var(--dark-bg-color);
+  font-family: "Open Sans", sans-serif;
+  outline: none;
+}
+
+body.light-mode {
+  background-color: var(--light-bg-color);
+  color: var(--text-color-light);
+}
+
+body.dark-mode {
+  background-color: var(--dark-bg-color);
+  color: var(--text-color-dark);
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: 100vh;
+}
+
+.calculator {
+  background-color: var(--white-color);
+  padding: 15px;
+  border-radius: 35px;
+  box-shadow: 5px 5px 40px rgba(105, 105, 105, 0.3), -5px -5px 40px rgba(105, 105, 105, 0.3);
+}
+
+body.dark-mode .calculator {
+  background-color: var(--dark-bg-color);
+  color: var(--text-color-dark);
+  box-shadow: none;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 68px);
+  grid-template-rows: repeat(5, auto);
+}
+
+#output-screen {
+  grid-column: span 4;
+  height: 75px;
+  width: 230px;
+  background-color: var(--white-color);
+  box-shadow: inset -5px -5px 12px #ffffff, inset 5px 5px 12px rgba(0, 0, 0, 0.16);
+  border: none;
+  border-radius: 25px;
+  color: rgb(70, 70, 70);
+  font-size: 50px;
+  text-align: end;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+body.dark-mode #output-screen {
+  background-color: var(--dark-bg-color);
+  color: var(--text-color-dark);
+  box-shadow: none;
+}
+
+button {
+  height: 48px;
+  width: 48px;
+  background-color: var(--white-color);
+  box-shadow: -5px -5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  border: none;
+  border-radius: 50%;
+  margin: 8px;
+  font-size: 16px;
+}
+
+body.dark-mode button {
+  background-color: var(--dark-bg-color);
+  color: var(--text-color-dark);
+  box-shadow: none;
+}
+
+.equal-to {
+  height: 48px;
+  width: 48px;
+  background-color: var(--orange-color);
+  box-shadow: -5px -5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  border: none;
+  border-radius: 40px;
+  color: white;
+  margin: 8px;
+}
+
+body.dark-mode .equal-to {
+  background-color: var(--orange-color);
+  box-shadow: none;
+}
+
+.text-color {
+  color: var(--orange-color);
+}
+
+body.dark-mode .text-color {
+  color: var(--text-color-dark);
+}
+
+.toggle-button {
+  height: 48px;
+  width: 48px;
+  background-color: var(--white-color);
+  box-shadow: -5px -5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  border: none;
+  border-radius: 50%;
+  margin: 8px;
+  font-size: 16px;
+}
+
+body.light-mode .toggle-button {
+  background-color: var(--dark-bg-color);
+  color: var(--text-color-dark);
+}
+
+body.dark-mode .toggle-button {
+  background-color: var(--light-bg-color);
+  color: var(--text-color-light);
+  box-shadow: none;
+}

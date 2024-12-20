@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Calculator  </title>
+</head>
+<body class="dark-mode">
+
+<div class="container align-center">
+  <div class="grid calculator">
+    <input type="text" id="output-screen" readonly placeholder="0"/>
+    <button class="text-color" onclick="allClear()" data-key="C">C</button>
+    <button class="text-color" onclick="del()" data-key="Backspace">DEL</button>
+    <button class="text-color" onclick="display('%')" data-key="%">%</button>
+    <button class="text-color" onclick="display('/')" data-key="/">&#247</button>
+    <button onclick="display(7)" data-key="7">7</button>
+    <button onclick="display(8)" data-key="8">8</button>
+    <button onclick="display(9)" data-key="9">9</button>
+    <button class="text-color" onclick="display('*')" data-key="*">x</button>
+    <button onclick="display(4)" data-key="4">4</button>
+    <button onclick="display(5)" data-key="5">5</button>
+    <button onclick="display(6)" data-key="6">6</button>
+    <button class="text-color" onclick="display('-')" data-key="-">-</button>
+    <button onclick="display(1)" data-key="1">1</button>
+    <button onclick="display(2)" data-key="2">2</button>
+    <button onclick="display(3)" data-key="3">3</button>
+    <button class="text-color" onclick="display('+')" data-key="+">+</button>
+    <button onclick="display('.')" data-key=".">.</button>
+    <button onclick="display(0)" data-key="0">0</button>
+    <button class="equal-to" onclick="calculate()" data-key="=">=</button>
+    <button class="toggle-button" onclick="toggleMode()" data-key="Tab"> ⇆ </button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
