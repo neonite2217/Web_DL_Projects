@@ -14,7 +14,7 @@ simple quick age calculator
 Here's a preview of the calculator:
 
 <p align="center">
-  <img src="path/to/your/preview.gif" alt="Preview" width="600"/>
+  <img src="https://github.com/neonite2217/Web_DL_Projects/blob/main/Age%20Calculator/image.png" width="600"/>
 </p>
 
 ## ⚙️ Languages or Frameworks Used
