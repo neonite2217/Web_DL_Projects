@@ -14,14 +14,13 @@ This project is a web page turning pages styled entirely using CSS.
 Here's a preview of the Turing page:
 
 <p align="center">
-  <img src="path/to/your/preview.gif" alt="Turing Page Preview" width="600"/>
+  <img src="https://github.com/neonite2217/Web_DL_Projects/blob/main/turning_page(css)/Turning%20page.gif" alt="Turing Page Preview" width="600"/>
 </p>
 
 ## ⚙️ Languages or Frameworks Used
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>JavaScript</li>
 </ul>
 
 ### Prerequisites
