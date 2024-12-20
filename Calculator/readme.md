@@ -27,8 +27,8 @@ index.html
 ## 📺 Demo
 
 <p align="center">
-<img src="/images/img1.PNG" width=70% height=70%/>
-<img src="/images/img2.PNG" width=70% height=70%/>
+<img src="/Calculator/img1.png" width=70% height=70%/>
+<img src="/Calculator/img.png" width=70% height=70%/>
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
