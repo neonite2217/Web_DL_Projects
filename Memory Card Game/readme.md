@@ -27,7 +27,7 @@ Good to start playing.
 
 ## 📺 Demo
 <p align="center">
-<img src="image.png" width=70% height=70%>
+<img src="images/image.png" width=70% height=70%>
 
 
 ## 🤖 Author
