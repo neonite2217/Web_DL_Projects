@@ -31,7 +31,7 @@ git clone https://github.com/neonite2217/Web_DL_Projects.git
 
 ## 📺 Demo
 <p align="center">
-<img src="image.png" width=70% height=70%>
+<img src="images/image.png" width=70% height=70%>
 
 ## 🤖 Author
 [Biswaketan](https://github.com/neonite2217/)
