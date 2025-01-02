@@ -1,0 +1,156 @@
+/*.container{
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+
+.container h2{
+    font-size: 40px;
+}
+
+.container p{
+    font-size: 30px;
+    font-weight: bold;
+    color: darkgray;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+img{
+    margin: 20px;
+    
+}
+
+img:hover{
+    box-shadow: 0px 10px 50px rgba(70, 32, 231, 1);
+}*/
+body {
+    background-color: #000;  /* Black background for the body */
+    color: #eaeaea;  /* Light text color for readability */
+}
+
+#canvas {
+    margin: auto;
+    background: #2c2c2c;  /* Dark background */
+    width: 100%;
+}
+
+.navbar {
+    background-color: #000;  /* Black navbar */
+}
+
+.navbar-brand {
+    margin: 0 auto;
+    color: #fff;  /* White text for navbar brand */
+}
+
+.btn-info {
+    background-color: #555;  /* Darker buttons */
+    border-color: #555;
+}
+
+.btn-info:hover {
+    background-color: #666;  /* Slightly lighter on hover */
+    border-color: #666;
+}
+
+.btn-dark {
+    background-color: #444;  /* Dark button */
+    border-color: #444;
+}
+
+.btn-dark:hover {
+    background-color: #555;  /* Slightly lighter on hover */
+    border-color: #555;
+}
+
+.btn-warning {
+    background-color: #ff9800;  /* Orange buttons for a pop of color */
+    border-color: #ff9800;
+}
+
+.btn-warning:hover {
+    background-color: #ffa726;  /* Slightly lighter on hover */
+    border-color: #ffa726;
+}
+
+.btn-danger {
+    background-color: #e53935;  /* Red buttons for warnings/undo */
+    border-color: #e53935;
+}
+
+.btn-danger:hover {
+    background-color: #ef5350;  /* Slightly lighter on hover */
+    border-color: #ef5350;
+}
+
+.custom-file-label {
+    background-color: #000;  /* Black background for file input label */
+    color: #fff;  /* White text */
+    border-color: #555;  /* Border to match */
+}
+
+.custom-file-input {
+    color: #fff;  /* White text */
+    background-color: #000;  /* Black background */
+}
+
+.footer {
+    margin: 15px 0 5px;
+    padding: 0.1rem !important;
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    background-color: #000 !important;  /* Black footer */
+}
+
+.footer h4 {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #42a5f5;  /* Link color for contrast */
+}
+
+a:hover {
+    color: #64b5f6;  /* Slightly lighter on hover */
+}
+
+.container {
+    border: 1px solid #000;  /* Black border */
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+    background-color: #000;  /* Black background */
+    color: #eaeaea;  /* Light text color */
+}
+
+.container h2 {
+    font-size: 40px;
+    color: #fff;  /* White text for headers */
+}
+
+.container p {
+    font-size: 30px;
+    font-weight: bold;
+    color: #aaaaaa;  /* Light gray text color */
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+img {
+    margin: 20px;
+}
+
+img:hover {
+    box-shadow: 0px 10px 50px rgba(70, 32, 231, 1);
+}
