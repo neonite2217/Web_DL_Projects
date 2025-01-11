@@ -16,11 +16,8 @@ This project is a 3D recreation of a game room, inspired by the incredible work 
     <li>JavaScript</li>
 </ul>
 
-## Screenshots
-
-<p align="center">
-  <img src="path/to/your/image.png" alt="Game Room Screenshot " width="400"/>
-</p>
+## Demo
+You can view the live demo of the project here: [Live Demo](https://p1-taupe.vercel.app/)
 
 ## Getting Started
 
