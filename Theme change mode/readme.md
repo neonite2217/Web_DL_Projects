@@ -24,9 +24,8 @@ git clone https://github.com/neonite2217/Web_DL_Projects.git
 
 Navigate to the project directory and run `index.html` file in your web browser
 
-## 📺 Demo
-<p align="center">
-<img src="image.png" width=70% height=70%>
+[## 📺 Demo](https://mode-changer-ten.vercel.app/)
+
 
 
 ## 🤖 Author
