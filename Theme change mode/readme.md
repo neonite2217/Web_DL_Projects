@@ -24,7 +24,7 @@ git clone https://github.com/neonite2217/Web_DL_Projects.git
 
 Navigate to the project directory and run `index.html` file in your web browser
 
-[## 📺 Demo](https://mode-changer-ten.vercel.app/)
+[📺 Demo](https://mode-changer-ten.vercel.app/)
 
 
 
