@@ -65,4 +65,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to [me](https://veilmsg.pythonanywhere.com/user/biswaketan_378167/?ref=dashboard_915%23959)
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me
