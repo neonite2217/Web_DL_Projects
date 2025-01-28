@@ -43,7 +43,7 @@ Each project in this repository comes with its own set of instructions for usage
 2. **Age Calculator** - A simple way to calculate age in the browser.
 3. **Basic Contact Form** - Basic contact form to connect.
 4. **Bouncing Balls** - Bouncing ball animation
-5. **Animated Car** - Car 
+5. **Animated Car** - 
 6. **Loan Calculator**  
 
 
