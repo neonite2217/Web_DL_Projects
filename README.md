@@ -42,7 +42,7 @@ Each project in this repository comes with its own set of instructions for usage
 1. **2048 Game** - A simple 2048 game in the browser
 2. **Age Calculator** - A simple way to calculate age in the browser.
 3. **Basic Contact Form** - Basic contact form to connect.
-4. **Bouncing Balls** - 
+4. **Bouncing Balls** 
 5. **Animated Car** 
 6. **Loan Calculator**  
 
