@@ -21,7 +21,7 @@ In this repository, you'll find a variety of web development projects covering d
 
 - Front-end: HTML, CSS, JavaScript, React.js, Vue.js
 - Back-end: Node.js, Express.js, Django, Flask
-- Database: MongoDB, MySQL, 
+- Database: MongoDB, 
 - Additional Tools: Git, GitHub, RESTful APIs, JSON
 
 ## Getting Started
