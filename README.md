@@ -38,7 +38,7 @@ Each project in this repository comes with its own set of instructions for usage
 ## Projects
 
 
-1. **2048 Game** - 
+1. **2048 Game** 
 2. **Age Calculator** 
 3. **Basic Contact Form** 
 4. **Bouncing Balls** 
