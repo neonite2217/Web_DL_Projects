@@ -60,7 +60,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 - Special thanks to the creators of the libraries and APIs used in these projects.
 - Inspired by the vibrant Python community and its commitment to learning and collaboration.
-- Thanks to open source learning(youtube,medium, reddit, stackoverflow,Geekforgeeks,W3schools) helped whenever I stumbled
+- Thanks to open source learning(youtube,medium, reddit, stackoverflow,Geekforgeeks,W3schools) for helping me whenever I stumbled
 
 ## Contact
 
