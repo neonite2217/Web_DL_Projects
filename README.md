@@ -40,7 +40,7 @@ Each project in this repository comes with its own set of instructions for usage
 
 1. **2048 Game**
 2. **Age Calculator**
-3. **Basic Contact Form** 
+3. **Basic Contact Form**
 4. **Bouncing Balls**
 5. **Animated Car** 
 6. **Loan Calculator**
