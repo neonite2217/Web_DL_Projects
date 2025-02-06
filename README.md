@@ -43,7 +43,7 @@ Each project in this repository comes with its own set of instructions for usage
 3. **Basic Contact Form**
 4. **Bouncing Balls**
 5. **Animated Car**
-6. **Loan Calculator**
+6. **Loan Calculator
 
 
 Feel free to explore each project and experiment with the code!
