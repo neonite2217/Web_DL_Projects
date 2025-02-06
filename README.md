@@ -42,7 +42,7 @@ Each project in this repository comes with its own set of instructions for usage
 2. **Age Calculator**
 3. **Basic Contact Form**
 4. **Bouncing Balls**
-5. **Animated Car** 
+5. **Animated Car**
 6. **Loan Calculator**
 
 
