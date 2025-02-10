@@ -44,7 +44,6 @@ Each project in this repository comes with its own set of instructions for usage
 4. **Bouncing Balls**
 5. **Animated Car**
 
-
 Feel free to explore each project and experiment with the code!
 
 ## Contributing
