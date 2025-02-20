@@ -42,7 +42,6 @@ Each project in this repository comes with its own set of instructions for usage
 2. **Age Calculator**
 3. **Basic Contact Form**
 
-
 Feel free to explore each project and experiment with the code!
 
 ## Contributing
