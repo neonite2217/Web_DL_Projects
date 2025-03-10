@@ -40,7 +40,7 @@ Each project in this repository comes with its own set of instructions for usage
 
 1. **2048 Game**
 2. **Age Calcu**
-3. *3D-room
+3. **3D-room
 
 Feel free to explore each project and experiment with the code!
 
