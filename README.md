@@ -42,6 +42,56 @@ Each project in this repository comes with its own set of instructions for usage
 2. **Age**
 3. **3D-room**
 4. **Age Calculator**
+5. Age Calculator
+
+Animated Car
+
+BMI Calculator
+
+Basic Contact Form
+
+Battery Indicator
+
+Bouncing Ball
+
+Created files
+
+Calculator
+
+Calender
+
+Clock
+
+Feedback Form
+
+Google.com Clone
+
+Image_editor
+
+Maths practice for children
+
+Memory Card Game
+
+Rock-Paper-Scissors
+
+Theme change mode
+
+Tic Tac Toe
+
+Virtual Keyboard
+
+Whiteboard
+
+loan calculator
+
+password generator
+
+speed-distance-time-calculator
+
+turning_page(css)
+
+word counter
+
 
 Feel free to explore each project and experiment with the code!
 
