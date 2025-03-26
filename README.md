@@ -44,7 +44,8 @@ Each project in this repository comes with its own set of instructions for usage
 4. **Age Calculator**
 5. **Animated Car**
 6. **BMI Calculator**
-7. **Basic Contact Form**Battery Indicator
+7. **Basic Contact Form**
+8. Battery Indicator
 
 Bouncing Ball
 
