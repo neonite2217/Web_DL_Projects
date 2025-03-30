@@ -47,8 +47,7 @@ Each project in this repository comes with its own set of instructions for usage
 7. **Basic Contact Form**
 8. **Battery Indicator**
 9. **Bouncing Ball**
-10. **Created files**
-Calculator
+10. **Created files**Calculator
 
 Calender
 
