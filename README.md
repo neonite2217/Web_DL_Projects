@@ -48,7 +48,7 @@ Each project in this repository comes with its own set of instructions for usage
 8. **Battery Indicator**
 9. **Bouncing Ball**
 10. **Created files**
-11. **Calculator*
+11. **Calculator**
 
 Calender
 
