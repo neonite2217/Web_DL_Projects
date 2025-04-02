@@ -49,7 +49,7 @@ Each project in this repository comes with its own set of instructions for usage
 9. **Bouncing Ball**
 10. **Created files**
 11. **Calculator**
-12. Calender
+12. *Calender
 
 Clock
 
