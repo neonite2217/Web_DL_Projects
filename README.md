@@ -50,8 +50,7 @@ Each project in this repository comes with its own set of instructions for usage
 10. **Created files**
 11. **Calculator**
 12. **Calender**
-13. **Clock**
-Feedback Form
+13. **Clock**Feedback Form
 
 Google.com Clone
 
