@@ -52,7 +52,7 @@ Each project in this repository comes with its own set of instructions for usage
 12. **Calender**
 13. **Clock**
 14. **Feedback Form**
-15. *Google.com Clone*
+15. *Google.com Clone**
 
 Image_editor
 
