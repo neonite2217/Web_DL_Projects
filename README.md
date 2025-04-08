@@ -51,8 +51,7 @@ Each project in this repository comes with its own set of instructions for usage
 11. **Calculator**
 12. **Calender**
 13. **Clock**
-14. **Feedback Form**
-Google.com Clone
+14. **Feedback Form**Google.com Clone
 
 Image_editor
 
