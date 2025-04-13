@@ -53,7 +53,8 @@ Each project in this repository comes with its own set of instructions for usage
 13. **Clock**
 14. **Feedback Form**
 15. **Google.com Clone**
-16. **Image_editor**Maths practice for children
+16. **Image_editor**
+17. Maths practice for children
 
 Memory Card Game
 
