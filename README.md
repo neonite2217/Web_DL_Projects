@@ -54,8 +54,7 @@ Each project in this repository comes with its own set of instructions for usage
 14. **Feedback Form**
 15. **Google.com Clone**
 16. **Image_editor**
-17. **Maths practice for children**
-Memory Card Game
+17. **Maths practice for children**Memory Card Game
 
 Rock-Paper-Scissors
 
