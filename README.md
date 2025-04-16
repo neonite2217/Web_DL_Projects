@@ -55,7 +55,8 @@ Each project in this repository comes with its own set of instructions for usage
 15. **Google.com Clone**
 16. **Image_editor**
 17. **Maths practice for children**
-18. **Memory Card Game**Rock-Paper-Scissors
+18. **Memory Card Game**
+19. Rock-Paper-Scissors
 
 Theme change mode
 
