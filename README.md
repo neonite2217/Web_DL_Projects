@@ -57,7 +57,8 @@ Each project in this repository comes with its own set of instructions for usage
 17. **Maths practice for children**
 18. **Memory Card Game**
 19. **Rock-Paper-Scissors**
-20. **Theme change mode**Tic Tac Toe
+20. **Theme change mode**
+21. Tic Tac Toe
 
 Virtual Keyboard
 
