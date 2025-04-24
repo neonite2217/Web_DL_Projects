@@ -59,7 +59,7 @@ Each project in this repository comes with its own set of instructions for usage
 19. **Rock-Paper-Scissors**
 20. **Theme change mode**
 21. **Tic Tac Toe**
-22. *Virtual Keyboard**
+22. **Virtual Keyboard**
 
 Whiteboard
 
