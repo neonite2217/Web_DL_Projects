@@ -58,7 +58,8 @@ Each project in this repository comes with its own set of instructions for usage
 18. **Memory Card Game**
 19. **Rock-Paper-Scissors**
 20. **Theme change mode**
-21. **Tic Tac Toe**Virtual Keyboard
+21. **Tic Tac Toe**
+22. Virtual Keyboard
 
 Whiteboard
 
