@@ -60,7 +60,7 @@ Each project in this repository comes with its own set of instructions for usage
 20. **Theme change mode**
 21. **Tic Tac Toe**
 22. **Virtual Keyboard**
-23. Whiteboard
+23. *Whiteboard
 
 loan calculator
 
