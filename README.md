@@ -61,7 +61,6 @@ Each project in this repository comes with its own set of instructions for usage
 21. **Tic Tac Toe**
 22. **Virtual Keyboard**
 23. **Whiteboard**
-
 loan calculator
 
 password generator
